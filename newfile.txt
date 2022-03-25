@@ -1,0 +1,8 @@
+This the Version Control with Git and Github Tutorial 1
+1. Create a Github Repo and clone it
+2. Make a branch
+3. Make a change
+4. Add it to staging
+5. Commit it
+6. Push this branch to the remote i.e. Github
+7. Make a pull request and merge it
